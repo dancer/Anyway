@@ -19,7 +19,7 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   title: "Anyway",
   description: "Building Open Source for Everyone",
-  metadataBase: new URL("https://anyway.sh"),
+  metadataBase: new URL("https://anyway.ltd"),
   keywords: ["open source", "decentralized", "technology", "development", "web3"],
   authors: [{ name: "Anyway Team" }],
   openGraph: {
